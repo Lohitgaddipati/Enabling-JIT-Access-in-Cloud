@@ -1,2 +1,3 @@
 # Enabling-JIT-Access-in-Cloud
-Enabling and Configuring Just in Time Access
+
+(For a more detailed report, download the document or visit https://blog.lohitgaddipati.com)
